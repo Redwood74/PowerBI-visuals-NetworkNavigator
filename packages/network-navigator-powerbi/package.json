@@ -21,7 +21,7 @@
 		"core-js": "^3.22.7",
 		"d3": "3.5.12",
 		"jquery": "^3.6.0",
-		"lodash-es": "^4.17.21",
+		"lodash-es": "^4.18.1",
 		"powerbi-models": "^1.10.5",
 		"powerbi-visuals-api": "~3.8.0"
 	},
