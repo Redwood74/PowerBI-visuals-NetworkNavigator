@@ -31,7 +31,7 @@
 		"@types/jasmine-jquery": "^1.5.34",
 		"@types/jquery": "^3.5.14",
 		"@types/karma": "^6.3.1",
-		"@types/lodash-es": "^4.17.6",
+		"@types/lodash-es": "^4.17.12",
 		"chai": "^4.3.6",
 		"coveralls": "^3.1.1",
 		"eslint": "^8.16.0",
